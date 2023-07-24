@@ -1,2 +1,3 @@
 # Shell-and-Tube-Heat-Exchanger-with-Helical-Baffles
 Simulation based project on designing a shell and tube heat exchanger with helical shaped baffles.
+The study conducts a three-dimensional numerical simulation of shell-and-tube heat exchangers with continuous helical baffles (STHXsHB). Physical and mathematical models are developed and simulated using finite element method (FEM). The results demonstrate that STHXsHB outperforms conventional STHXsSB with significantly higher heat transfer coefficient per unit pressure drop (72-127% higher) and lower shell-side pressure drop (59-63% lower) for the same shell-side mass flow rate. The computational model is validated by comparing shell-side average Nusselt number with experimental results.
